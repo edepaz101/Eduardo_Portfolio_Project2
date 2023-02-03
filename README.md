@@ -17,12 +17,12 @@ Python and Excel
 
 ### Python Code and Data Visuals
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Project2/blob/main/images/pic%201.png)
+![](/images/pic%201.png)
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Project2/blob/main/images/pic%202.png)
+![](/images/pic%202.png)
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Project2/blob/main/images/pic%203.png)
+![](/images/pic%203.png)
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Project2/blob/main/images/pic%204.png)
+![](/images/pic%204.png)
 
-![](https://github.com/edepaz101/Eduardo_Portfolio_Project2/blob/main/images/pic%205.png)
+![](/images/pic%205.png)
