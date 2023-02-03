@@ -15,6 +15,8 @@ Python and Excel
 
 • Purchased a 2012 Nissan Leaf reducing my monthly transportation costs by 27%
 
+### Python Code and Data Visuals
+
 ![](https://github.com/edepaz101/Eduardo_Portfolio_Project2/blob/main/images/pic%201.png)
 
 ![](https://github.com/edepaz101/Eduardo_Portfolio_Project2/blob/main/images/pic%202.png)
